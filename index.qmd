@@ -1,0 +1,21 @@
+---
+title: ""
+image: media/tof.jpeg 
+toc: false
+about: 
+    template: jolla
+    # trestles solana marquee broadside
+    image-shape: round
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: https://www.linkedin.com/in/ousmane-ciss%C3%A9/
+        - text: Github
+          href: https://github.com/oussou-dev
+        - text: Email
+          href: mailto:ai.scientist101@gmail.com
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
